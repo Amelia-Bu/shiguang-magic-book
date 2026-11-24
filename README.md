@@ -2,7 +2,7 @@
 
 > 一本可以真的翻开、翻牌、贴纸的网页手账书。37 页，纯静态，零构建，零后端。
 
-**[→ 打开这本书](https://amelia-bu.github.io/shiguang-magic-book-open/)**
+**[→ 打开这本书](https://amelia-bu.github.io/shiguang-magic-book/)**
 
 ![首页](docs/shots/01-home.jpg)
 
